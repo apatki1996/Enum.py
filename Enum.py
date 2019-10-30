@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+"""
+    Usage: Enum.py <ip1> <ip2>
+"""
 
 import os, sys, subprocess, re, urlparse
 import threading
